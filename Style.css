@@ -1,0 +1,36 @@
+﻿
+             h1 
+             {
+                 color: #ff8c00;
+                 font-weight: 100;
+                 font-style: initial;
+             }
+             h2 
+             {
+                 color: #fff000;
+                 font-weight: 100;
+                 font-style: initial;
+             }
+             h 
+             {
+                 color: #ecc148;
+                 font-weight: 500;
+                 font-style: initial;
+             }
+             table 
+             {
+                 color: #000000;
+             }
+             p 
+             {
+                 font-weight: 300;
+                 font-style: initial;
+             }
+             body 
+             {
+                 background-color: whitesmoke;
+             }
+             table 
+             {
+                 font-style: initial; 
+             }
